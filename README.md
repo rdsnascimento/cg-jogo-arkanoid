@@ -1,4 +1,4 @@
-# Arkanoid em C
+# Trabalho final Arkanoid
 
 Jogo Arkanoid desenvolvido como trabalho final para disciplina de Computação Gráfica em 2018/2.
 
