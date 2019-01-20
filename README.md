@@ -1,4 +1,4 @@
-# Trabalho final Arkanoid
+# Trabalho final - Computação Gráfica
 
 Jogo Arkanoid desenvolvido como trabalho final para disciplina de Computação Gráfica (2018/2).
 
